@@ -1,6 +1,5 @@
 -----------------
-MAPLAB_M4L
-by Mark IJzerman, December 2014
+MAPLAB_M4L by Mark IJzerman, December 2014
 -----------------
 
 DESCRIPTION:
