@@ -10,7 +10,7 @@ It is made to work with Ableton Live Suite 9 and Isadora 1.x and 2.x together wi
 
 -----------------
 
-MODULES:
+MODULES:<br>
 
 The MAPLAB_M4L package consists of four modules.
 A2I stands for "Ableton TO Isadora". I2A stands for "Isadora TO Ableton".
