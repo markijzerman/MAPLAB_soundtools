@@ -29,6 +29,8 @@ You can place this module on multiple tracks, but beware:
 
 When Init is pressed, sends out extensive analysis  data (on PE_CreateInputs) from the track it is placed on. Uses Tristan Jehan's Analyzer~ external. Pretty CPU intensive, and can be quite buggy. So use only if you really need that brightness, noisiness, attack, etc. data!
 
+NOTE!!! The Advanced analysis uses the fftw3.dll external under Windows, which is included. This should be placed in your Max folder.
+
 You can place this module on multiple tracks, but beware:
 *warning* be sure NOT to change the name of the track after the module is placed. It will NOT work anymore when you save and load your file in Ableton.
 
