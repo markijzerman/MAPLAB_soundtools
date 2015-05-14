@@ -55,3 +55,10 @@ You can place this module on multiple tracks, but beware:
 *warning* be sure NOT to change the name of the track after the module is placed. It will NOT work anymore when you save and load your file in Ableton.
 
 =================
+
+== CustomActors ==
+
+These are Custom Actors for Isadora by Iwein Reimerink and provide better communication with the M4L plugins! 
+PE_AbletonClipLaunch makes it easy to start/stop clips (use together with I2A_ClipLauncher)
+PE_AbletonRecord can be used on an empty, armed track. You can record 10 clips and play them back (use together with I2A_ClipLauncher)
+=================
